@@ -1,0 +1,58 @@
+4
+
+Programowanie
+Jan Malinowski 3000 11 11 1960 12 12 1980
+Grupa1 10
+Jan Kowalski 0 25 10 1998 26 07 2014
+
+Stanislaw Mlot 500 04 03 1995 23 08 2014
+Janusz Noga 700 11 10 1993 10 10 2014
+
+Monika Los 200 02 02 1995 13 10 2014
+Bo¿ena Czerwinska 0 01 01 1991 25 10 2014
+
+Joanna Pawlak 0 12 10 1994 18 11 2014
+Irena Szewczyk 0 07 10 1991 18 12 2014
+
+Jolanta Andrzejewska 350 03 05 1994 31 12 2014
+
+Ewelina Jakubowska 75 02 01 1998 02 04 2015
+
+Roman Kaminski 200 17 11 1997 15 05 2015
+Grupa2 6
+Wanda Tomaszewska 0 12 12 1994 17 05 2015
+
+Stefania Kazmierczak 500 31 12 1996 06 06 2015
+Michal Dabrowski 600 30 05 1995 13 06 2015
+Slawomir Wysocki 0 25 10 1998 24 09 2015
+
+Andrzej Nowak 250 07 07 1997 06 10 2015
+
+Damian Dudek 300.50 03 03 1944 21 11 2015
+Grupa3 7
+
+Kazimierz Marciniak 200 07 08 1992 17 12 2015
+
+Mateusz Majewski 107.50 13 12 1998 15 01 2016
+
+Dorota Brzezinska 67.70 05 04 1996 15 03 2016
+
+Alicja Krawczyk 109.90 03 04 1993 03 04 2016
+Kazimierz Wieczorek 0 02 03 1993 17 04 2016
+Miroslaw Lis 0 07 08 1997 30 05 2016
+Jozef Urbanski 0 06 06 1996 02 07 2016
+Grupa4 8
+Magdalena Piotrowska 100 12 12 1995 18 07 2016
+
+Jadwiga Sawicka 600 13 07 1995 20 07 2016
+
+Patrycja Kaminska 500 08 08 1997 02 05 2015
+
+Dawid Makowski 1200 09 11 1997 11 04 2016
+
+Leszek Zielinski 377.70 11 10 1996 28 06 2015
+
+Danuta Gajewska 291.92 01 03 1999 20 03 2015
+Agnieszka Zielinska 0 01 02 1998 16 10 2014
+
+Robert Baranowski 0 12 01 1997 14 04 2015
